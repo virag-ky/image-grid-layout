@@ -1,3 +1,10 @@
+# Responsive CSS Grid Layout
+
+<img width="1967" alt="Screenshot 2025-01-10 at 18 13 16" src="https://github.com/user-attachments/assets/710f1431-f102-4df0-b958-db54bc6eb05b" />
+
+
+## Photos:
+
 Photo by <a href="https://unsplash.com/@shotbyjudeus?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Judeus Samson</a> on <a href="https://unsplash.com/photos/man-with-tattoo-carrying-rifle-RbCtpHuJsSI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Photo by <a href="https://unsplash.com/@icidius?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ciaran O'Brien</a> on <a href="https://unsplash.com/photos/person-carrying-bag-walking-in-front-of-store-jCXMsJQTsQw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
